@@ -1,9 +1,6 @@
 ###############################################################################
-# Retail Food & Beverage Sales: Seasonal ARIMA Forecast
-# Author : Gianni Palaj
-# Date   : November 1, 2026
-# Data   : Chapter_03.csv (monthly sales, Jan 1992 - Sep 2017, 309 obs)
-# Goal   : Forecast the next 30 months of sales
+# Gianni Palaj |  Retail Food & Beverage Sales: Seasonal ARIMA Forecast
+# Dataset: Chapter_03.csv (monthly sales, Jan 1992 - Sep 2017, 309 obs)
 ###############################################################################
 
 
